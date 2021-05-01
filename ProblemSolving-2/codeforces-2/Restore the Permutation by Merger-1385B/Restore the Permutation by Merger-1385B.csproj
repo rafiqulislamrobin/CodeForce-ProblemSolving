@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Restore_the_Permutation_by_Merger_1385B</RootNamespace>
+  </PropertyGroup>
+
+</Project>
