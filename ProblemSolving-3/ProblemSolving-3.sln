@@ -23,11 +23,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mahmoud and Ehab and the ev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fafa and his Company-935A", "Fafa and his Company-935A\Fafa and his Company-935A.csproj", "{C77E7CC9-BF11-45A3-B306-AAC8C6128B1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do Not Be Distracted!-1520A", "Do Not Be Distracted!-1520A\Do Not Be Distracted!-1520A.csproj", "{881331A9-3579-4425-806C-5EA2ED4D50EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Do Not Be Distracted!-1520A", "Do Not Be Distracted!-1520A\Do Not Be Distracted!-1520A.csproj", "{881331A9-3579-4425-806C-5EA2ED4D50EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordinary Numbers-1520B", "Ordinary Numbers-1520B\Ordinary Numbers-1520B.csproj", "{483FEE0E-43DB-41B2-ABC3-EB821D468E57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordinary Numbers-1520B", "Ordinary Numbers-1520B\Ordinary Numbers-1520B.csproj", "{483FEE0E-43DB-41B2-ABC3-EB821D468E57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Not Adjacent Matrix-1520C", "Not Adjacent Matrix-1520C\Not Adjacent Matrix-1520C.csproj", "{29041C4C-08B3-4632-85F7-BA0ED6996CCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Not Adjacent Matrix-1520C", "Not Adjacent Matrix-1520C\Not Adjacent Matrix-1520C.csproj", "{29041C4C-08B3-4632-85F7-BA0ED6996CCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fair Division-1472B", "Fair Division-1472B\Fair Division-1472B.csproj", "{D300327D-6C8B-4C36-8EA7-CB5E23622AB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CopyCopyCopyCopyCopy-1325B", "CopyCopyCopyCopyCopy-1325B\CopyCopyCopyCopyCopy-1325B.csproj", "{FEFC3572-FE08-43AD-A5AB-EE4F517F66CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EhAb AnD gCd-1325A", "EhAb AnD gCd-1325A\EhAb AnD gCd-1325A.csproj", "{B14A8A03-6CA9-4CE4-94C4-11EB8F289B90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Omkar and Completion-1372A", "Omkar and Completion-1372A\Omkar and Completion-1372A.csproj", "{2829DF89-CC2D-4E12-82AB-48CE21A0A94C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ichihime and Triangle-1337A", "Ichihime and Triangle-1337A\Ichihime and Triangle-1337A.csproj", "{02981389-7417-4552-8504-169577DA6B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nastia and nearly Good Numbers-1521A", "Nastia and nearly Good Numbers-1521A\Nastia and nearly Good Numbers-1521A.csproj", "{FD07624F-B5C2-4EFA-AB32-7C24EDB57CE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +99,30 @@ Global
 		{29041C4C-08B3-4632-85F7-BA0ED6996CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29041C4C-08B3-4632-85F7-BA0ED6996CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29041C4C-08B3-4632-85F7-BA0ED6996CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D300327D-6C8B-4C36-8EA7-CB5E23622AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D300327D-6C8B-4C36-8EA7-CB5E23622AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D300327D-6C8B-4C36-8EA7-CB5E23622AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D300327D-6C8B-4C36-8EA7-CB5E23622AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFC3572-FE08-43AD-A5AB-EE4F517F66CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFC3572-FE08-43AD-A5AB-EE4F517F66CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFC3572-FE08-43AD-A5AB-EE4F517F66CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFC3572-FE08-43AD-A5AB-EE4F517F66CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14A8A03-6CA9-4CE4-94C4-11EB8F289B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14A8A03-6CA9-4CE4-94C4-11EB8F289B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14A8A03-6CA9-4CE4-94C4-11EB8F289B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14A8A03-6CA9-4CE4-94C4-11EB8F289B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2829DF89-CC2D-4E12-82AB-48CE21A0A94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2829DF89-CC2D-4E12-82AB-48CE21A0A94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2829DF89-CC2D-4E12-82AB-48CE21A0A94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2829DF89-CC2D-4E12-82AB-48CE21A0A94C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02981389-7417-4552-8504-169577DA6B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02981389-7417-4552-8504-169577DA6B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02981389-7417-4552-8504-169577DA6B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02981389-7417-4552-8504-169577DA6B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD07624F-B5C2-4EFA-AB32-7C24EDB57CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD07624F-B5C2-4EFA-AB32-7C24EDB57CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD07624F-B5C2-4EFA-AB32-7C24EDB57CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD07624F-B5C2-4EFA-AB32-7C24EDB57CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Nastia_and_nearly_Good_Numbers_1521A</RootNamespace>
+  </PropertyGroup>
+
+</Project>
